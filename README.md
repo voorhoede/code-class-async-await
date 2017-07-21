@@ -7,4 +7,4 @@ install
 
 run exercises:
 
-`$ node run exercise-1.js`
+`$ node exercise-1.js`
